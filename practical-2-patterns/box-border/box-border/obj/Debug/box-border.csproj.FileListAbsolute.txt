@@ -1,0 +1,7 @@
+E:\Harshil\Projects\C#\.NET-console-apps\practical-2-patterns\box-border\box-border\bin\Debug\box-border.exe.config
+E:\Harshil\Projects\C#\.NET-console-apps\practical-2-patterns\box-border\box-border\bin\Debug\box-border.exe
+E:\Harshil\Projects\C#\.NET-console-apps\practical-2-patterns\box-border\box-border\bin\Debug\box-border.pdb
+E:\Harshil\Projects\C#\.NET-console-apps\practical-2-patterns\box-border\box-border\obj\Debug\box-border.csproj.CoreCompileInputs.cache
+E:\Harshil\Projects\C#\.NET-console-apps\practical-2-patterns\box-border\box-border\obj\Debug\box-border.exe
+E:\Harshil\Projects\C#\.NET-console-apps\practical-2-patterns\box-border\box-border\obj\Debug\box-border.pdb
+E:\Harshil\Projects\C#\.NET-console-apps\practical-2-patterns\box-border\box-border\obj\Debug\box-border.csprojAssemblyReference.cache
