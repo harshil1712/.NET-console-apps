@@ -1,0 +1,6 @@
+E:\Harshil\Projects\C#\.NET-console-apps\practical-2-patterns\box-pattern\box-pattern\bin\Debug\box-pattern.exe.config
+E:\Harshil\Projects\C#\.NET-console-apps\practical-2-patterns\box-pattern\box-pattern\bin\Debug\box-pattern.exe
+E:\Harshil\Projects\C#\.NET-console-apps\practical-2-patterns\box-pattern\box-pattern\bin\Debug\box-pattern.pdb
+E:\Harshil\Projects\C#\.NET-console-apps\practical-2-patterns\box-pattern\box-pattern\obj\Debug\box-pattern.csproj.CoreCompileInputs.cache
+E:\Harshil\Projects\C#\.NET-console-apps\practical-2-patterns\box-pattern\box-pattern\obj\Debug\box-pattern.exe
+E:\Harshil\Projects\C#\.NET-console-apps\practical-2-patterns\box-pattern\box-pattern\obj\Debug\box-pattern.pdb
