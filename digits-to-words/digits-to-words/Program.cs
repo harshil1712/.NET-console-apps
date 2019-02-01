@@ -155,7 +155,6 @@ namespace digits_to_words
                 {
                     word = singleDigit(thirdDigit) + " Hundred " + twoDigit(secondDigit*10)+ " "+ singleDigit(unitDigit);
                 }
-                //Console.Write(secondDigit/10);
             }
 
             Console.Write(word);

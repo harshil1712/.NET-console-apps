@@ -1,0 +1,6 @@
+E:\Harshil\Projects\C#\.NET-console-apps\delegates-example\delegates-example\bin\Debug\delegates-example.exe.config
+E:\Harshil\Projects\C#\.NET-console-apps\delegates-example\delegates-example\bin\Debug\delegates-example.exe
+E:\Harshil\Projects\C#\.NET-console-apps\delegates-example\delegates-example\bin\Debug\delegates-example.pdb
+E:\Harshil\Projects\C#\.NET-console-apps\delegates-example\delegates-example\obj\Debug\delegates-example.csproj.CoreCompileInputs.cache
+E:\Harshil\Projects\C#\.NET-console-apps\delegates-example\delegates-example\obj\Debug\delegates-example.exe
+E:\Harshil\Projects\C#\.NET-console-apps\delegates-example\delegates-example\obj\Debug\delegates-example.pdb
