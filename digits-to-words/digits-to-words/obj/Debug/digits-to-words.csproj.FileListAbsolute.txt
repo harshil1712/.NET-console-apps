@@ -1,0 +1,7 @@
+E:\Harshil\Projects\C#\.NET-console-apps\digits-to-words\digits-to-words\bin\Debug\digits-to-words.exe.config
+E:\Harshil\Projects\C#\.NET-console-apps\digits-to-words\digits-to-words\bin\Debug\digits-to-words.exe
+E:\Harshil\Projects\C#\.NET-console-apps\digits-to-words\digits-to-words\bin\Debug\digits-to-words.pdb
+E:\Harshil\Projects\C#\.NET-console-apps\digits-to-words\digits-to-words\obj\Debug\digits-to-words.csproj.CoreCompileInputs.cache
+E:\Harshil\Projects\C#\.NET-console-apps\digits-to-words\digits-to-words\obj\Debug\digits-to-words.exe
+E:\Harshil\Projects\C#\.NET-console-apps\digits-to-words\digits-to-words\obj\Debug\digits-to-words.pdb
+E:\Harshil\Projects\C#\.NET-console-apps\digits-to-words\digits-to-words\obj\Debug\digits-to-words.csprojAssemblyReference.cache
