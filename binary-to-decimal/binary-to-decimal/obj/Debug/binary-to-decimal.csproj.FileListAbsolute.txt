@@ -1,0 +1,6 @@
+E:\Harshil\Projects\C#\.NET-console-apps\binary-to-decimal\binary-to-decimal\bin\Debug\binary-to-decimal.exe.config
+E:\Harshil\Projects\C#\.NET-console-apps\binary-to-decimal\binary-to-decimal\bin\Debug\binary-to-decimal.exe
+E:\Harshil\Projects\C#\.NET-console-apps\binary-to-decimal\binary-to-decimal\bin\Debug\binary-to-decimal.pdb
+E:\Harshil\Projects\C#\.NET-console-apps\binary-to-decimal\binary-to-decimal\obj\Debug\binary-to-decimal.csproj.CoreCompileInputs.cache
+E:\Harshil\Projects\C#\.NET-console-apps\binary-to-decimal\binary-to-decimal\obj\Debug\binary-to-decimal.exe
+E:\Harshil\Projects\C#\.NET-console-apps\binary-to-decimal\binary-to-decimal\obj\Debug\binary-to-decimal.pdb
