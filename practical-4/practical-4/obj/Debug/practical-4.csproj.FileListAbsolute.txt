@@ -1,0 +1,7 @@
+E:\Harshil\Projects\C#\.NET-console-apps\practical-4\practical-4\bin\Debug\practical-4.exe.config
+E:\Harshil\Projects\C#\.NET-console-apps\practical-4\practical-4\bin\Debug\practical-4.exe
+E:\Harshil\Projects\C#\.NET-console-apps\practical-4\practical-4\bin\Debug\practical-4.pdb
+E:\Harshil\Projects\C#\.NET-console-apps\practical-4\practical-4\obj\Debug\practical-4.csprojAssemblyReference.cache
+E:\Harshil\Projects\C#\.NET-console-apps\practical-4\practical-4\obj\Debug\practical-4.csproj.CoreCompileInputs.cache
+E:\Harshil\Projects\C#\.NET-console-apps\practical-4\practical-4\obj\Debug\practical-4.exe
+E:\Harshil\Projects\C#\.NET-console-apps\practical-4\practical-4\obj\Debug\practical-4.pdb
